@@ -40,7 +40,7 @@
                             <div class="card-body">
                                 <h5 class="card-title"><?php echo $data[$index]["harga"] ?></h5>
                                 <p class="card-text"><?php echo $data[$index]["merk"] ?></p>
-                                <a href="#" class="btn btn-primary">Product Detail</a>
+                               <a href="product_detail.php?id=<?php echo $data[$index]['id'] ?>" class="btn btn-primary">Product Detail</a>
                             </div>
                         </div>
                     </div>
