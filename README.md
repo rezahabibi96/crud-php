@@ -1,9 +1,6 @@
-# CRUD PHP - Web Development Course
+# CRUD PHP - Web Development Material Course
 
 This repository contains the project for the **Web Development course** in the **Department of Business Statistics**. The project demonstrates how to create a basic **CRUD (Create, Read, Update, Delete)** application using PHP.
-
-![PHP](https://img.shields.io/badge/-PHP-777BB4.svg?style=flat-square&logo=php)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1.svg?style=flat-square&logo=mysql)
 
 ## Project Overview
 
